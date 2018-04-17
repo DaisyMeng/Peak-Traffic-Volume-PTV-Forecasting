@@ -5,8 +5,8 @@
 1.Files<br>
 
 --&nbsp;requirement.txt&emsp;&emsp;&emsp;# python libraries needed to run the code<br>
---&nbsp;preprocessing.py	&emsp;&emsp;	# preprocessing <br>
---&nbsp;features.py	&emsp;&emsp;&emsp;&emsp;# form all the possible features<br>
+--&nbsp;preprocessing.py&emsp;&emsp;&emsp;# preprocessing <br>
+--&nbsp;features.py	&emsp;&emsp;&emsp;# form all the possible features<br>
 --&nbsp;feature_selection.py &emsp;&emsp;	# select the most relevant features for regression model<br>
 --&nbsp;regression.py	&emsp;&emsp;# regression<br>
 --&nbsp;reduced.pckl	&emsp;&emsp;# preprocessed data:corrected wrong data and combined data items. It is the output of preprocessing.py, and is the input to features.py<br>
