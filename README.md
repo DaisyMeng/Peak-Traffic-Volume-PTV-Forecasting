@@ -11,7 +11,7 @@ Files
 -- regression.py		# regression<br>
 -- reduced.pckl			# preprocessed data:   corrected wrong data and combined data items. It is the output of preprocessing.py, and is the input to features.py<br>
 -- feature_all.pckl		# all the possible features. It is the output of features.py, and is the input to 	feature_selection.py and regression.py<br>
--- data/			# original dataset<br>
+-- data/<br>
 	| -- PTV_TTV.csv			# recodes PTV in 2017<br />
 	| -- promotions.csv			# records for promoted items offered in the shop<br>
 	| -- vouchers.csv			# records for shop vouchers sent to users <br>
