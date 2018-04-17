@@ -16,6 +16,6 @@
 &emsp;&emsp;| --&nbsp;promotions.csv&emsp;&emsp;&emsp;# records for promoted items offered in the shop<br>
 &emsp;&emsp;| --&nbsp;vouchers.csv&nbsp;&emsp;&emsp;&emsp;&emsp;#  records for shop vouchers sent to users <br>
 	
-Instructions to run the file
+2.Instructions to run the file
 
 
