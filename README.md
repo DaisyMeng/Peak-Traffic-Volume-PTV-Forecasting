@@ -4,13 +4,15 @@
 
 1.Files<br>
 
---&nbsp;requirement.txt&emsp;&emsp;# python libraries needed to run the 						  code<br>
--- preprocessing.py		# preprocessing 
--- features.py			# form all the possible features
--- feature_selection.py 	# select the most relevant features 						  for regression model
--- regression.py			# regression
--- reduced.pckl			# preprocessed data:   								  corrected wrong data and combined 						  data items. It is the output of 						  preprocessing.py, and is the input 						  to features.py
--- feature_all.pckl		# all the possible features. It is the output of features.py, and is the input to feature_selection.py and regression.py
+--&nbsp;requirement.txt&emsp;&emsp;# python libraries needed to run the code<br>
+-- preprocessing.py	&emsp;&emsp;	# preprocessing <br>
+-- features.py	&emsp;&emsp;# form all the possible features<br>
+
+-- feature_selection.py &emsp;&emsp;	# select the most relevant features for regression model<br>
+
+-- regression.py	&emsp;&emsp;# regression
+-- reduced.pckl	&emsp;&emsp;# preprocessed data:corrected wrong data and combined data items. It is the output of preprocessing.py, and is the input to features.py
+-- feature_all.pckl&emsp;&emsp;# all the possible features. It is the output of features.py, and is the input to feature_selection.py and regression.py
 -- data/						# original dataset
 	| -- PTV_TTV.csv			# recodes PTV in 2017
 	| -- promotions.csv			# records for promoted items offered in the shop
