@@ -4,17 +4,17 @@
 
 1.Files<br>
 
---&nbsp;requirement.txt&emsp;&emsp;&emsp;&emsp;&emsp;# python libraries needed to run the code<br>
---&nbsp;preprocessing.py&emsp;&emsp;&emsp;&emsp;# preprocessing <br>
---&nbsp;features.py&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# form all the possible features<br>
+--&nbsp;requirement.txt&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;# python libraries needed to run the code<br>
+--&nbsp;preprocessing.py&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;# preprocessing <br>
+--&nbsp;features.py&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# form all the possible features<br>
 --&nbsp;feature_selection.py &emsp;&emsp;&emsp;# select the most relevant features for regression model<br>
 --&nbsp;regression.py	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# regression<br>
---&nbsp;reduced.pckl	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# preprocessed data:corrected wrong data and combined data items. <br>
---&nbsp;feature_all.pckl&emsp;&emsp;&emsp;&emsp;&emsp;# all the possible features. <br>
+--&nbsp;reduced.pckl	&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# preprocessed data:corrected wrong data and combined data items. <br>
+--&nbsp;feature_all.pckl&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;# all the possible features. <br>
 --&nbsp;data/	<br>					
-&emsp;&emsp;| --&nbsp;PTV_TTV.csv&emsp;&emsp;&emsp;&emsp;# recodes PTV in 2017<br>
+&emsp;&emsp;| --&nbsp;PTV_TTV.csv&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;# recodes PTV in 2017<br>
 &emsp;&emsp;| --&nbsp;promotions.csv&emsp;&emsp;&emsp;# records for promoted items offered in the shop<br>
-&emsp;&emsp;| --&nbsp;vouchers.csv&emsp;&emsp;&emsp;&emsp;#  records for shop vouchers sent to users <br>
+&emsp;&emsp;| --&nbsp;vouchers.csv&nbsp;&emsp;&emsp;&emsp;&emsp;#  records for shop vouchers sent to users <br>
 	
 Instructions to run the file
 
