@@ -4,7 +4,7 @@ Predicting traffic volume of shop webpages is important for providing a better o
 
 Files
 
--- requirement.txt 		# python libraries needed to run the 						  code
+-- requirement.txt 		# python libraries needed to run the 						  code\n
 -- preprocessing.py		# preprocessing 
 -- features.py			# form all the possible features
 -- feature_selection.py 	# select the most relevant features 						  for regression model
