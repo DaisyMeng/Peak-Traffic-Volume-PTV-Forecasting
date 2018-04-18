@@ -12,8 +12,8 @@ f = open('feature_all.pckl', 'rb')
 feature = pickle.load(f)
 f.close()
 
-f = open('df_promotion.pckl', 'rb')
-df = pickle.load(f)
+f = open('reduced.pckl', 'rb')
+[v,p,df] = pickle.load(f)
 f.close()
 
 ###################################################################################
