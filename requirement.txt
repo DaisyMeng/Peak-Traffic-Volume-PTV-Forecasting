@@ -1,6 +1,0 @@
-sklearn
-pickle
-numpy
-matplotlib
-pandas
-datetime
