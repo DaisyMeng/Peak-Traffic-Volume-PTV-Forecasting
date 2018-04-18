@@ -1,21 +1,9 @@
-<h1> Peak-Traffic-Volume-PTV-Forecasting</h1>
-
-<p>Predicting traffic volume of shop webpages is important for providing a better online shopping experience, as webpages’ traffic volume may surge to an extremely high level during big promotion events. This project focuses on Peak Traffic Volume (PTV) forecasting based on the ‘PTV’ for a shop in Taiwan during 2017. </p>
-
-1.Files<br>
-
---&nbsp;requirement.txt&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;# python libraries needed to run the code<br>
---&nbsp;preprocessing.py&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;# preprocessing <br>
---&nbsp;features.py&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# form all the possible features<br>
---&nbsp;feature_selection.py &emsp;&emsp;&emsp;# select the most relevant features for regression model<br>
---&nbsp;regression.py	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# regression<br>
---&nbsp;reduced.pckl	&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# preprocessed data:corrected wrong data and combined data items. <br>
---&nbsp;feature_all.pckl&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;# all the possible features. <br>
---&nbsp;data/	<br>					
-&emsp;&emsp;| --&nbsp;PTV_TTV.csv&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;# recodes PTV in 2017<br>
-&emsp;&emsp;| --&nbsp;promotions.csv&emsp;&emsp;&emsp;# records for promoted items offered in the shop<br>
-&emsp;&emsp;| --&nbsp;vouchers.csv&nbsp;&emsp;&emsp;&emsp;&emsp;#  records for shop vouchers sent to users <br>
-	
-Instructions to run the file
-
-
+<p>&nbsp;</p>
+<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<h1 class="vicinity rich-diff-level-zero">Peak Traffic Volume Forecasting</h1>
+<p class="vicinity rich-diff-level-zero">Predicting traffic volume of shop webpages is important for providing a better online shopping experience, as webpages&rsquo; traffic volume may surge to an extremely high level during big promotion events. This project focuses on Peak Traffic Volume (PTV) forecasting based on the &lsquo;PTV&rsquo; for a shop in Taiwan during 2017.</p>
+<div class="expandable unchanged js-expandable rich-diff-level-zero">
+<h4 class="unchanged rich-diff-level-one">1.Files</h4>
+<p class="unchanged rich-diff-level-one">--&nbsp;requirement.txt&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; # python libraries needed to run the code<br />--&nbsp;preprocessing.py&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; # preprocessing&nbsp;<br />--&nbsp;features.py&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; # form all the possible features<br />--&nbsp;feature_selection.py &emsp;&emsp;&emsp;# select the most relevant features for regression model<br />--&nbsp;regression.py &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # regression<br />--&nbsp;reduced.pckl &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # preprocessed data:corrected wrong data and combined data items.&nbsp;<br />--&nbsp;feature_all.pckl&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; &nbsp; &nbsp;# all the possible features.&nbsp;<br />--&nbsp;data/ <br />&emsp;&emsp;&nbsp; &nbsp; | --&nbsp;PTV_TTV.csv&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;# recodes PTV in 2017<br />&emsp;&emsp;&nbsp; &nbsp; | --&nbsp;promotions.csv&emsp;&emsp;&emsp; # records for promoted items offered in the shop<br />&emsp;&emsp;&nbsp; &nbsp; | --&nbsp;vouchers.csv&nbsp;&emsp;&emsp;&emsp;&emsp;# records for shop vouchers sent to users&nbsp;</p>
+<p class="unchanged rich-diff-level-one">2.Instructions to run the file</p>
+</div>
