@@ -37,6 +37,6 @@
 </li>
 </ol>
 <h4>4. Result</h4>
-<p>With 10-fold cross validation, the following figure shows the predicted 'PTV' and the true 'PTV'. The mean squared error of the prediction is 3.98e7</p>
+<p>With 10-fold cross validation, the following figure shows the predicted 'PTV' and the true 'PTV'. The mean squared error of the prediction is 3.98e7.</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/DaisyMeng/Peak-Traffic-Volume-PTV-Forecasting/blob/master/image/regression%20result.png" width="Infinity" /></p>
 </div>
